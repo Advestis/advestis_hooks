@@ -1,0 +1,5 @@
+-   id: format_check
+    name: Commit Format Checker
+    description: Validates commit format
+    entry: commit_format_check.sh
+    language: script
